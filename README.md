@@ -11,4 +11,4 @@ Every scenario opens a new browser, accepts cookies so cookies will persist per 
 Driver wait time is set to 20 seconds so the program will wait for 20 seconds for elememts to appear in some scenarios(Example: Search Results)
 Recent tab does not bring the search history for the first time when Chrome is running under test mode. This scenario is searching for the journey twice to mock the results.
 
-This project has been successfully tested on Chrome Version 129.0.6668.9100. If you wish to use a different version of chrome, then please update the relevant version of chrome in TFL.Specs.csproj file.
+This project has been successfully tested on Chrome Version 129.0.6668.9100. If you wish to use a different version of chrome, then please update the relevant version of chrome driver in TFL.Specs.csproj file.
